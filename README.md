@@ -112,7 +112,7 @@ Python script: unetTestWithDrone.py Description: Utilizes a pre-trained U-Net mo
 ### Performance of U-Net Model
 ![image](https://github.com/HamzaIqbal22/Autonomous-Drone-Line-Follower/assets/81776951/625f60e8-ef71-47ab-8c94-80d34126bef5)
 
-Enhancing Neural Network Models for Precision and Innovation of Autonomous Line Tracking - Scholarly Article 
+## Enhancing Neural Network Models for Precision and Innovation of Autonomous Line Tracking - Scholarly Article 
 ![image](https://github.com/HamzaIqbal22/Autonomous-Drone-Line-Follower/assets/81776951/7cca971d-d98d-42e6-aa1b-919d983ec50d)
 
 
